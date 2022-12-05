@@ -1,0 +1,12 @@
+2022-12-04 23:02:06 [INFO ] FXMLDocumentController:56 - Start button action
+2022-12-04 23:02:06 [ERROR] FXMLDocumentController:86 - Error! Division by zero.
+2022-12-04 23:02:06 [INFO ] FXMLDocumentController:89 - End button action
+2022-12-04 23:02:14 [INFO ] FXMLDocumentController:56 - Start button action
+2022-12-04 23:02:14 [INFO ] FXMLDocumentController:89 - End button action
+2022-12-04 23:02:16 [INFO ] FXMLDocumentController:94 - Start Cleaning
+2022-12-04 23:02:17 [INFO ] FXMLDocumentController:102 - End log4j
+2022-12-05 18:34:47 [INFO ] FXMLDocumentController:56 - Start button action
+2022-12-05 18:34:47 [INFO ] FXMLDocumentController:89 - End button action
+2022-12-05 18:34:55 [INFO ] FXMLDocumentController:94 - Start Cleaning
+2022-12-05 18:35:03 [INFO ] FXMLDocumentController:56 - Start button action
+2022-12-05 18:35:03 [INFO ] FXMLDocumentController:89 - End button action
